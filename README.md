@@ -45,4 +45,4 @@ More improvements will be added soon!
 ---
 
 ## 👤 Author
-E Sai Pavan
+E.Sai Pavan
