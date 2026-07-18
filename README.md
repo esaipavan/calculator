@@ -1,48 +1,48 @@
-# 🧮 My Calculator Web App
+# 🧮 Calculator
 
-This is a small calculator project I built using HTML, CSS, and JavaScript.  
-I made this mainly to practice front‑end basics and understand how UI and JavaScript logic work together.
+> A simple arithmetic calculator built with HTML and CSS — neumorphic design, works on desktop and mobile.
 
-The calculator supports basic operations and includes a clean, soft‑shadow (neumorphism) style that I designed myself.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square"/>
+</p>
 
----
-
-## 🌐 Live Link
-You can try it here:  
-https://esaipavan.github.io/calculator/
-
----
-
-## ✨ What I Learned While Building This
-- Structuring a webpage using HTML  
-- Styling layouts and buttons with CSS  
-- Adding interactive logic using JavaScript  
-- Hosting a project online using GitHub Pages  
+**[Live Demo →](https://esaipavan.github.io/calculator/)**
 
 ---
 
-## 📁 Files in This Project
-- index.html – main layout  
-- style.css – UI styling  
-- script.js – calculator logic  
+## ✨ Features
+
+- Addition, subtraction, multiplication, division
+- Clear (AC) and backspace (DE) controls
+- Soft-shadow neumorphic UI design
+- Responsive — works on mobile and desktop
 
 ---
 
-## ⚙️ Features
-- Simple and clean UI  
-- Smooth button effects  
-- Error handling  
-- Works on mobile and desktop  
+## 🚀 How to Use
+
+Open `index.html` in any browser — no dependencies, no build step.
+
+Or visit the **[live demo](https://esaipavan.github.io/calculator/)**.
 
 ---
 
-## 🙌 About the Project
-I built this project as part of my web development practice.  
-My goal was to create something functional and upload it to GitHub while learning each step properly.
+## 📁 Files
 
-More improvements will be added soon!
+```
+calculator/
+├── index.html    # Layout and inline button logic
+└── style.css     # Neumorphic styling
+```
 
 ---
+
+## 📜 License
+
+MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
-E.Sai Pavan
+
+**Sai Pavan Etikala** · [GitHub](https://github.com/esaipavan) · [LinkedIn](https://www.linkedin.com/in/etikalasaipavan)
